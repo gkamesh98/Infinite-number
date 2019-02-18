@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Infinite number</string>
+    <string name="textview1" tools:ignore="DuplicateDefinition">TextView</string>
+    <string name="score">Score</string>
+    <string name="_0">0</string>
+    <string name="highscore">Highscore</string>
+    <string name="button1" tools:ignore="DuplicateDefinition">Button</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="Play" />
+    <string name="HighScore" />
+    <string name="infinite_series">Infinite series</string>
+    <string name="play">Play</string>
+    <string name="enter_the_series">Enter the Series</string>
+    <string name="begin">Begin</string>
+</resources>
